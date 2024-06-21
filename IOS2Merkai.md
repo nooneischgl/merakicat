@@ -13,7 +13,7 @@ Meraki Cat from Unbuntu Deskstop 24. LTS
     * Use the ip address command to find the IP 
     * On Local Computer use the `ssh <username>@<IP address>` to SSH into the server 
 
-* Install Git with sudo apt install git
+* Install Git with `sudo apt install git`
 * Install Python3-11 
 ```
 sudo add-apt-repository ppa:deadsnakes/ppa
